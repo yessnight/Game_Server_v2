@@ -221,7 +221,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /* Section img */
 
 .features {
-    background: url('./img/wallpaper.jpg') no-repeat center center fixed;
+    background: url('./img/wallpaper.jpg') no-repeat center center;
     background-size: cover;
     padding: 80px 0;
 }
@@ -560,4 +560,5 @@ footer > p {
 
 .feedback form button:hover {
     background: #a35400;
+
 }
